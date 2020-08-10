@@ -1,8 +1,7 @@
-### Hi, I'm Chris.
+## Hi, I'm Chris.
+I am tinkering with MD Profile here in Github, please excuse my mess!
 
-## I am tinkering with MD Profile here in Github, please excuse my mess!
-
-## I'm (professionally)a...
+## (professionally) I'm a...
 - AWS Tinkerer
 - Javascript Developer
 - Legacy Coldfusion sustainer
