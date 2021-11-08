@@ -18,10 +18,12 @@
 - Working to use Terraform first
 
 
+
+
 ![CTFries's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctfries&show_icons=true&count_private=true&theme=dracula)
 
 
 
-[![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CTFries)](https://github.com/anuraghazra/github-readme-stats)
+[![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctfries)](https://github.com/anuraghazra/github-readme-stats)
 
 
