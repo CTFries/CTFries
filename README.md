@@ -1,18 +1,27 @@
 ## Hi, I'm Chris.
-I am tinkering with MD Profile here in Github, please excuse my mess!
-
-## (professionally) I'm a...
-- AWS Tinkerer
-- Javascript Developer
+## (professionally) I'm ...
+- Certified AWS Solutions Architect 
+- Javascript Developer(es6)
 - Legacy Coldfusion Sustainer(send help)
 - Occasional Desktop Supporter
 - AD/o365 Maintainer
 - Project Manager
 
 ## I'm also a...
-- Student(WGU Nightowls!)
 - Husband
 - Homelabber
 - Hardware Geek
-- Gamer
+
+## I'm currently...
+- Studying and practicing for the AWS Solutions Architect Professional cert
+- Modernizing ColdFusion/IIS/MSSQL apps to NextJS/unix/psql
+- Working to use Terraform first
+
+
+![CTFries's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctfries&show_icons=true&count_private=true&theme=dracula)
+
+
+
+[![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CTFries)](https://github.com/anuraghazra/github-readme-stats)
+
 
