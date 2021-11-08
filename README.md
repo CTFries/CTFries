@@ -24,6 +24,6 @@
 
 
 
-[![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctfries)](https://github.com/anuraghazra/github-readme-stats)
+[![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctfries)]
 
 
