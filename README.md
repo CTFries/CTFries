@@ -18,9 +18,8 @@
 - Working to use Terraform first
 
 
-
-
+## 
+### Generic github stats:
 ![CTFries's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctfries&show_icons=true&count_private=true&theme=dracula)
-
-
+### Last 7 days:
 ![CTFries's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctfries&theme=dracula)
