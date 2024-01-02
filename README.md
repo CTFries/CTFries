@@ -29,4 +29,4 @@ I'm Chris, currently leading technology and engineering teams at a rapidly growi
 
 - **Email**: [me@ctfries.dev](mailto:me@ctfries.dev)
 - **LinkedIn**: [linkedin.com/in/ctfries](https://linkedin.com/in/ctfries)
-- **GitHub**: [github.com/ctfries](https://github.com/ctfries)
+- **Website**: [ctfries.dev](https://ctfries.dev)
